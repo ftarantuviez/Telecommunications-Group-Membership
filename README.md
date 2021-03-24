@@ -1,2 +1,2 @@
 # Telecommunications-Group-Membership
-[link to application](https://telecommunications-group-membership.herokuapp.com/)
+[Link to application](https://tarantuviez-19.herokuapp.com/)
